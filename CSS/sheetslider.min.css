@@ -40,7 +40,7 @@
 
 .sh__meta span{font-size:1.7em;font-weight:500;padding-top:.2em}
 
-.sh__meta h4,.sh__meta span{color:#fff;display:block}
+.sh__meta h4,.sh__meta span{color:white;display:block}
 
 .sh__meta a{font-weight:500;-webkit-transition:color .5s;transition:color .5s;color:#009688}
 

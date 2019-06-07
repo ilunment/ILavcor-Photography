@@ -25,21 +25,23 @@ nav{
      display: flex;
      flex-direction: row;
      align-items: center;
+     justify-content: center;
+     margin-top:5%;
+     
     }
-
-.menu1:hover{
-    background-color:#00ddbb;
-    height:60%;
-    
-}
-
-
-div a{
+  
+.menu1{
     text-decoration: none;
     font-family:Prototype;
     font-size: 14pt;
     color:white;
     margin:80px;
+    height:20px;
+    
+    
+}
+.menu1:hover{
+    background-color:#00ddbb;
 }
 
 .perfil{
@@ -63,10 +65,27 @@ footer {
     background-color: black;
     height:30%; 
     color:white;
-    text-align: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
     
 }
+.footer1 {   
+    
+    width: 200px;
+    height:200px;
+    margin-right: 200px;
+}
+
+
+.logofo{
+    
+    width:200px;
+    height:200px;
+}
 .facebook{
+    
     width:35px;
     height:35px;
     border-radius:150px;
@@ -74,12 +93,9 @@ footer {
 
 }
 .instagram{
+    
     width:35px;
     height:35px;
     border-radius:150px;
     border:2px solid white;
 }
-.twitter{width:35px;
-    height:35px;
-    border-radius:150px;
-    border:2px solid white;}
