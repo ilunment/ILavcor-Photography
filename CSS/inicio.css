@@ -67,8 +67,6 @@ nav{
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    
-    
 }
 .exposicion img{
     width: 320px;
@@ -83,6 +81,27 @@ nav{
 .expo1 h3{
     text-decoration: none;
 }
+
+.logocanon{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+.logocanon img{
+
+    width:200px;
+    height:133px;
+}
+.canon1{
+
+    margin:10;
+    
+}
+
 
 footer {
     background-color: black;
