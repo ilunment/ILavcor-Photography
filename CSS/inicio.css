@@ -75,8 +75,13 @@ nav{
     height: 177px;
 }
 .expo1{
-    margin: 5%;
-    text-align:center
+    
+   margin: 5%;
+   text-align:center;   
+}
+
+.expo1 h3{
+    text-decoration: none;
 }
 
 footer {
