@@ -61,6 +61,24 @@ nav{
     margin-left:30%;
     margin-right:30%;
 }
+.exposicion{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+    
+}
+.exposicion img{
+    width: 320px;
+    height: 177px;
+}
+.expo1{
+    margin: 5%;
+    text-align:center
+}
+
 footer {
     background-color: black;
     height:30%; 
@@ -77,7 +95,6 @@ footer {
     height:200px;
     margin-right: 200px;
 }
-
 
 .logofo{
     
