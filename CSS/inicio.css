@@ -29,18 +29,18 @@ nav{
      margin-top:5%;
      
     }
+
   
 .menu1{
     text-decoration: none;
     font-family:Prototype;
     font-size: 14pt;
     color:white;
-    margin:80px;
+    margin:60px;
     height:20px;
-    
-    
+   
 }
-.menu1:hover{
+.menu:hover{
     background-color:#00ddbb;
 }
 
@@ -67,19 +67,20 @@ nav{
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
+    margin:5%;
 }
 .exposicion img{
     width: 320px;
     height: 177px;
 }
 .expo1{
-    
-   margin: 5%;
-   text-align:center;   
+    text-align:center;   
 }
 
-.expo1 h3{
+.expotitulo{
     text-decoration: none;
+    color:black;
+    margin:10px;
 }
 
 .logocanon{
@@ -93,13 +94,11 @@ nav{
 }
 .logocanon img{
 
-    width:200px;
-    height:133px;
+    width:130px;
+    height:85px;
 }
 .canon1{
-
     margin:10;
-    
 }
 
 
